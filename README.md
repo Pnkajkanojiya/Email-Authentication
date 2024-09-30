@@ -1,4 +1,4 @@
-Email Authentication System - Simple Overview
+Email Authentication System -
 This project is a user authentication system that verifies a person’s identity through email. It is built using Java and designed with clean, organized code following Object-Oriented Programming (OOP) principles.
 
 Main Features:
